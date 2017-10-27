@@ -25,3 +25,5 @@ sudo docker run --rm -it -v $PWD/app:/symfony \
 -p 8000:8000 \
 bskton/symfony-dev
 ```
+
+Открыть страницу http://localhost:8000 в браузере.
